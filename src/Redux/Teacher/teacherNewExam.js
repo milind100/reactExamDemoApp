@@ -50,7 +50,7 @@ const createNewExam = createSlice({
 export const {
   addQuestion,
   updateQuestion,
-  // updateSubjectName,
+  updateSubjectName,
   initialiseNewExam,
   updateTokenValidation,
   changeIsLoading,
